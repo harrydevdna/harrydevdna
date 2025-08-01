@@ -1,10 +1,10 @@
 [![MasterHead](https://bit.ly/43u1Jlg)](https://harrycricket.io)
 <h1 align="center">Hi there👋, I'm Huynh Van Phuot and you can call me Harry</h1>
-<h3 align="center">From the vibrant tech scene of Vietnam, a Full Stack Developer with a burning passion</h3>
+<h3 align="center">I am a Software Engineer from Vietnam with over 2 years of experience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harrycricket&label=Profile%20views&color=0e75b6&style=flat" alt="harrycricket" /> </p>
 
-- 🔭 I’m currently working on **Spartan**
+- 🔭 I’m currently working at **Spartan**
 
 - 🌱 I’m currently learning **Next.js, TanStack, Ant Design and Shadcn/ui**
 
