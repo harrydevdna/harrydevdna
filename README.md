@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **phuothuynh2002@gmail.com**
 
-- 📄 Know about my experiences [https://harry-cricket.tiiny.site](https://harry-dev-dna.tiiny.site)
+- 📄 Know about my experiences [Huynh-Van-Phuot_Resume_Software-Engineer](https://flowcv.com/resume/f3gqcoumvg91)
 
 - ⚡ Fun fact **I am an outgoing, affable, and enthusiastic individual, known for my sociable nature.**
 
