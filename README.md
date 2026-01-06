@@ -1,4 +1,5 @@
 [![MasterHead](https://bit.ly/43u1Jlg)](https://harrycricket.io)
+
 <h1 align="center">Hi there👋, I'm Huynh Van Phuot and you can call me Harry</h1>
 <h3 align="center">I am a Software Engineer from Vietnam with over 2 years of experience</h3>
 
@@ -10,56 +11,83 @@
 
 - 📫 How to reach me **phuothuynh2002@gmail.com**
 
-- 📄 Know about my experiences [Huynh-Van-Phuot_Resume_Software-Engineer](https://flowcv.com/resume/f3gqcoumvg91)
+- 📄 Know about my experiences [Huynh-Van-Phuot_Resume_Software-Engineer](https://harry-dev-dna.tiiny.site/)
 
 - ⚡ Fun fact **I am an outgoing, affable, and enthusiastic individual, known for my sociable nature.**
 
-### Languages and Tools
-
+### 🧑‍💻 Programming Languages
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="60"/>
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/354112/nextjs.svg" alt="nextjs" height="60"/>
-  <img width="12" />
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" height="60"/>
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" height="60"/>
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="60"/>
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/373872/nestjs.svg" alt="nestjs" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" height="60"/>
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="60"/>
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="60"/>
+</div>
+
+### ⚙️ Frameworks & Libraries
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="60"/> 
+  <img width="12"/> 
+  <img src="https://www.svgrepo.com/show/354112/nextjs.svg" height="60"/> 
+  <img width="12"/> 
+  <img src="https://reactnative.dev/img/header_logo.svg" height="60"/> 
+  <img width="12"/> 
+  <img src="https://www.svgrepo.com/show/373872/nestjs.svg" height="60"/> 
+  <img width="12"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="60"/> 
+  <img width="12"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="60"/> 
+  <img width="12"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="60"/>
+</div>
+
+### 🎨 UI / Styling
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" height="60"/>
+</div>
+
+### 🗄️ Databases
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="60"/>
+</div>
+
+### 🧪 Testing
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="60"/>
+</div>
+
+### 🚀 Deployment & CI/CD
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60"/>
+</div>
+
+### 🛠️ Tools & Platforms
+<div align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="60"/>
+  <img width="12"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="60"/>
 </div>
 
 ### Connect with me
@@ -80,17 +108,10 @@
 
 ###
 
-<div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harrydevdna&" alt="harrydevdna" />
-  <img src="https://github-profile-trophy.vercel.app/?username=harrydevdna" alt="harrydevdna" />
-</div>
-
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harrydevdna/harrydevdna/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harrydevdna/harrydevdna/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harrydevdna/harrydevdna/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
