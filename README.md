@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **phuothuynh2002@gmail.com**
 
-- 📄 Know about my experiences [Huynh-Van-Phuot_Resume_Software-Engineer](https://harry-dev-dna.tiiny.site/)
+- 📄 Know about my experiences [Huynh-Van-Phuot_Resume_Software-Engineer](https://red-lilah-20.tiiny.site/)
 
 - ⚡ Fun fact **I am an outgoing, affable, and enthusiastic individual, known for my sociable nature.**
 
